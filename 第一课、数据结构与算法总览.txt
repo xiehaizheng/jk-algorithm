@@ -12,3 +12,11 @@
     LRU Cache 缓存
 
 二、算法
+  if-else, switch => branch
+  for, while loop => iteration
+  递归 Recursion(Divide & Conquer, Backtrace) 分治法
+  搜索 (Search) ：深度优先搜索 Depth first search，广度优先搜索 Breadth first search，启发式搜索 A*
+  动态规划 (Dynamic Programming)、
+  二分查找 (Binary Search)
+  贪心 (Greedy)
+  数学 (Math)，几何 (Geometry)
