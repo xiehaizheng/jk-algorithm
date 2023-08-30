@@ -1,0 +1,4 @@
+行头：command + left
+行尾：command + right
+
+光标在行头，选中整行：command + shift + right
